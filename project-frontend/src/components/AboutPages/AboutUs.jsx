@@ -25,7 +25,7 @@ const AboutUs = () => {
               Our commitment to customer satisfaction has helped us grow into a trusted name in Gandhinagar. We believe in providing not only quality products but also expert advice and reliable service.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              Visit us at our store near Cinemax in Sargasan, Near Nayara Petrol Pump, E- 001 Swagat Flamingo and experience the Umiya Tyre And Battery Service difference. We are here to assist you with all your tyre-related needs.
+              Visit us at our store near Sargasan, Near Nayara Petrol Pump, E- 001 Swagat Flamingo and experience the Umiya Tyre And Battery Service difference. We are here to assist you with all your tyre-related needs.
             </p>
           </div>
 
