@@ -17,6 +17,7 @@ function DealershipShowcase() {
     { src: "/assets/amaronlogo.jpg", alt: "Amaron", category: "battery" },
     { src: "/assets/exidelogo.jpeg", alt: "Exide", category: "battery" },
     { src: "/assets/eloficlogo.jpeg", alt: "Elofic", category: "filter" },
+    { src: "https://tse1.mm.bing.net/th?id=OIP.bL3fSD9-oV7gqGJa3-_I0QHaEK&pid=Api&P=0&h=180", alt: "Bosch", category: "filter" },
   ];
 
   // Animation for brands appearing sequentially
